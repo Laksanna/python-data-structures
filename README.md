@@ -43,7 +43,7 @@
 - Arrays store information in adjoining blocks of memory, they’re considered contiguous data structures 
 
 ### list
-Mutable dynamic arrays
+- Mutable dynamic arrays
 - A list allows elements to be added or removed, and the list will automatically adjust the backing store that holds these elements by allocating or releasing memory.
     ```
     >>> a = ["apple","banana","carrot"]
